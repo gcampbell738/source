@@ -1,2 +1,2 @@
 # source
-Coding practise
+Coding practise for go
